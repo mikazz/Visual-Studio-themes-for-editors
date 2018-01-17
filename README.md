@@ -8,5 +8,5 @@
 ## Notepad++
 
 ### Installation
-%APPDATA%\Notepad++\themes
+%appdata%\Notepad++\themes
 
